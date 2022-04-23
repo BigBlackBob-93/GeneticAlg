@@ -1,0 +1,13 @@
+﻿  GeneticAlg.cpp
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(22,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(31,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(97,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(116,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(117,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(160,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  8 of 27 functions (29.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GeneticAlg.vcxproj -> D:\C++\4 semester\GeneticAlg\Release\GeneticAlg.exe

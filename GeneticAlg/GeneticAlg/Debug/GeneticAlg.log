@@ -1,0 +1,10 @@
+﻿  GeneticAlg.cpp
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(22,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(31,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(130,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(149,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(150,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(174,13): warning C4101: 'one': unreferenced local variable
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(174,18): warning C4101: 'two': unreferenced local variable
+D:\C++\4 semester\GeneticAlg\GeneticAlg\GeneticAlg.cpp(186,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GeneticAlg.vcxproj -> D:\C++\4 semester\GeneticAlg\Debug\GeneticAlg.exe
